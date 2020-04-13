@@ -1,0 +1,29 @@
+<package>
+	<id>com.trafalgar-reports+</id>
+	<name>Reports+ Cheats</name>
+	<version>1.0.0+iOSGods.com</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription>Reports+ Pro Unlocker</shortDescription>
+	<descriptionlist>
+		<description>Reports+ Pro Unlocker</description>
+		<description>Install it and check options on settings app</description>
+	</descriptionlist>
+	<changelog>
+		<change>1.0.0</change>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
